@@ -71,6 +71,9 @@ export default function Home() {
       <div style={{ marginTop: 50 }}>
         <Link href={"/first"}>Linkのfirst</Link>
       </div>
+      <div style={{ marginTop: 50 }}>
+        <Link href={"/tailsample1"}>tailsample1</Link>
+      </div>
     </div>
   );
 }
